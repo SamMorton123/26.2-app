@@ -26,7 +26,7 @@ def TrackRankings(selected_event):
 
     # load most recent rankings for selected event
     selected_event_altered = selected_event.replace("'", '').replace(' ', '_').lower()
-    event_filename = f'../data/generated_ratings_data/{selected_event_altered}_{CURR_YEAR}.csv'
+    event_filename = f'data/generated_ratings_data/{selected_event_altered}_{CURR_YEAR}.csv'
     df = pd.read_csv(event_filename)
     
     # reformat data for viewing
