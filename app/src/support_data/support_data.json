@@ -1,0 +1,8 @@
+{
+    "supported_events": [
+        "Men's 100m", "Men's 200m", "Men's 400m", "Men's 110mH", "Men's 400mH",
+        "Men's 800m", "Men's 1500m", "Men's 3000mSC", "Men's 5000m",
+        "Women's 100m", "Women's 200m", "Women's 400m", "Women's 100mH", "Women's 400mH",
+        "Women's 800m", "Women's 1500m", "Women's 3000mSC", "Women's 5000m"
+    ]
+}
